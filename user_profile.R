@@ -48,3 +48,5 @@ stopifnot(dir.exists(rcodes))
 stopifnot(dir.exists(outData))
 stopifnot(dir.exists(outTables))
 stopifnot(dir.exists(outFigures))
+
+#Hi
