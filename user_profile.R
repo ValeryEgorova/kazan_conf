@@ -50,3 +50,4 @@ stopifnot(dir.exists(outTables))
 stopifnot(dir.exists(outFigures))
 
 #Hi
+#We did it
